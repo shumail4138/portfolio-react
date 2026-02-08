@@ -47,23 +47,24 @@ export default function Home() {
         
         {/* SOCIAL ICONS */}
         <div className="flex justify-center md:justify-start gap-5 text-2xl text-[#b74b4b]">
-  <a href="https://www.linkedin.com/in/shumail-rahat-khan-31239422a/" className="hover:scale-125 transition">
+  <a href="https://www.linkedin.com/in/shumail-rahat-khan-31239422a/" target="_blank" className="hover:scale-125 transition">
     <FaLinkedin />
   </a>
-  <a href="https://github.com/shumail4138/" className="hover:scale-125 transition">
+  <a href="https://github.com/shumail4138/" target="_blank" className="hover:scale-125 transition">
     <FaGithub />
   </a>
-  <a href="https://x.com/Shumail85572421?t=EYHEVQo2bR9X47THoIMH6g&s=09" className="hover:scale-125 transition">
+  <a href="https://x.com/Shumail85572421?t=EYHEVQo2bR9X47THoIMH6g&s=09" target="_blank" className="hover:scale-125 transition">
     <FaTwitter />
   </a>
-  <a href="https://instagram.com/shumail_rahat_khan?igshid=OGQ5ZDc2ODk2ZA==" className="hover:scale-125 transition">
+  <a href="https://instagram.com/shumail_rahat_khan?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" className="hover:scale-125 transition">
     <FaInstagram />
   </a>
 </div>
 
         {/* BUTTON */}
         <a
-          href="Shumail_Rahat_Khan.pdf"
+          href="Shumail.pdf"
+          target="_blank"
           className="inline-block border-2 border-[#b74b4b] text-[#b74b4b] px-7 py-3 rounded-full font-semibold tracking-wide hover:bg-[#b74b4b] hover:text-black transition"
         >
           Resume

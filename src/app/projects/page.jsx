@@ -4,6 +4,13 @@ import Image from "next/image";
 
 function Portfolio() {
   const projects = [
+     {
+      src: "/Blog Platform.png",
+      alt: "Blog Platform",
+      title: "Blog Platform",
+      desc: "A modern blogging platform inspired by clean design and smooth animations.",
+      link: "https://blog-platform07.netlify.app/",
+    },
     {
       src: "/todo.png",
       alt: "Todo App",

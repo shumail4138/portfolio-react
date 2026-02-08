@@ -68,7 +68,7 @@ function About() {
           {/* BUTTON */}
           <a
             href="/contact"
-            className="inline-block bg-[#b74b4b] hover:bg-[#a13f3f] text-white font-semibold px-7 py-3 rounded-full transition duration-300"
+            className="inline-block border-2 border-[#b74b4b] text-[#b74b4b] px-7 py-3 rounded-full font-semibold tracking-wide hover:bg-[#b74b4b] hover:text-black transition-colors duration-300"
           >
             Contact Me
           </a>
