@@ -63,7 +63,7 @@ export default function Home() {
 
         {/* BUTTON */}
         <a
-          href="Shumail.pdf"
+          href="Shumail resume.pdf"
           target="_blank"
           className="inline-block border-2 border-[#b74b4b] text-[#b74b4b] px-7 py-3 rounded-full font-semibold tracking-wide hover:bg-[#b74b4b] hover:text-black transition"
         >
