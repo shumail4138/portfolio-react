@@ -4,6 +4,13 @@ import Image from "next/image";
 
 function Portfolio() {
   const projects = [
+    {
+      src: "/SMS.png",
+      alt: "Student Management System",
+      title: "Student Management System",
+      desc: "A modern, full-stack Student Management System built with Next.js, FastAPI, SQLAlchemy, and SQLite.",
+      link: "https://students-ms.netlify.app/login",
+    },
      {
       src: "/Blog Platform.png",
       alt: "Blog Platform",
