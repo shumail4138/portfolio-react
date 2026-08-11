@@ -46,13 +46,6 @@ function Portfolio() {
       desc: "Website connecting students, alumni, and recruiters.",
       link: "https://admission-cell.netlify.app",
     },
-    {
-      src: "/landing page.jpeg",
-      alt: "Landing Page",
-      title: "Landing Page",
-      desc: "A standalone web page that visitors land on.",
-      link: "https://martial-arts-shumail.netlify.app/",
-    },
   ];
 
   return (
